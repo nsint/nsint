@@ -1,16 +1,35 @@
-### Hi there 👋
+<img src="https://cdn.discordapp.com/attachments/852035313533583361/857429627710865448/2m7m.gif" alt="avatar" width=100 heigth=50 />
+<h1>N$nt Fullstack Developer</h1>
+<p>Im a Junior Full-Stack Developer, I am from Mexico and I love programming.</p>
 
-<!--
-**nsint/nsint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
+<a href="https://discord.gg/cksQCNF3">My Discord</a>
+<br>
+<hr>
 
-Here are some ideas to get you started:
+```json
+{
+"N$nt": {
+		"Skills": {
+			"React": "70%",
+			"C++": "30%",
+			"SQL": "62%",
+			"dotNet": "4%",
+			"JavaScript": "100%",
+			"HTML": "100%",
+			"CSS": "86%",
+			"Python": "72%"
+		},
+		"Info": {
+			"Country": "México",
+			"Age": "15 Years Old",
+			"Favorite animal": "Cats"
+		}
+	}
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+console.log('#N$ntTeam')
+```
+
